@@ -1,4 +1,4 @@
-sc_web_path=../../../ostis-web-platform/sc-web/client
+sc_web_path=/home/monstrillllo/ostis-example-app-0.5.0/ostis-web-platform/sc-web/client/
 addMusician_js_path=components/js/addMusician/addMusician.js
 addMusician_css_path=components/css/addMusician.css
 
